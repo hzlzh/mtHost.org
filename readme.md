@@ -13,7 +13,7 @@
 * [\[HowTo\] 如何修改帐户开通后的两处初始密码 Wiki ](https://github.com/hzlzh/mtHost.org/issues/4)
 * [\[HowTo\] 如何开启Gzip页面/文件压缩优化 Wiki ](https://github.com/hzlzh/mtHost.org/issues/3)
 
-# 工具
+# 推荐工具
 
 * FTP工具：[FileZilla](https://filezilla-project.org/) (Win&Mac)
 * 代码编辑器：[Sublime Text 2](http://www.sublimetext.com/2) (Win&Mac)

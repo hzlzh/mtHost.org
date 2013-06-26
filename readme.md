@@ -1,5 +1,7 @@
 # mtHost.org 官网wiki百科
 
+[查看全部wiki列表](https://github.com/hzlzh/mtHost.org/issues?state=open)
+
 # Wiki
 
 * [\[wiki\] mtHost 服务器配置详细参数 ](https://github.com/hzlzh/mtHost.org/issues/1)
@@ -20,4 +22,7 @@
 * SSH工具：[Putty](http://www.putty.org/) (Win) & [iTerm](http://www.iterm2.com/) (Mac)
 
 # 其他
+
+[查看全部wiki列表](https://github.com/hzlzh/mtHost.org/issues?state=open)
+
 若有其他疑问，请在群里提出

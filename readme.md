@@ -10,10 +10,10 @@
 
 ## Q&A
 
-* [\[HowTo\] 如何解析域名到mtHost主机？ Wiki ](https://github.com/hzlzh/mtHost.org/issues/6)
-* [\[HowTo\] 如何创建MySQL数据库，用户和密码 Wiki ](https://github.com/hzlzh/mtHost.org/issues/5)
-* [\[HowTo\] 如何修改帐户开通后的两处初始密码 Wiki ](https://github.com/hzlzh/mtHost.org/issues/4)
-* [\[HowTo\] 如何开启Gzip页面/文件压缩优化 Wiki ](https://github.com/hzlzh/mtHost.org/issues/3)
+* [\[HowTo\] 如何解析域名到mtHost主机？](https://github.com/hzlzh/mtHost.org/issues/6)
+* [\[HowTo\] 如何创建MySQL数据库，用户和密码](https://github.com/hzlzh/mtHost.org/issues/5)
+* [\[HowTo\] 如何修改帐户开通后的两处初始密码](https://github.com/hzlzh/mtHost.org/issues/4)
+* [\[HowTo\] 如何开启Gzip页面/文件压缩优化](https://github.com/hzlzh/mtHost.org/issues/3)
 
 ## 推荐工具
 

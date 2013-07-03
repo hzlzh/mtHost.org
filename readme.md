@@ -7,6 +7,7 @@
 * [\[wiki\] mtHost 服务器配置详细参数 ](https://github.com/hzlzh/mtHost.org/issues/1)
 * [\[wiki\] 关于服务器后台操作面板的界面截图](https://github.com/hzlzh/mtHost.org/issues/7)
 * [\[wiki\] 关于mtHost的备份服务](https://github.com/hzlzh/mtHost.org/issues/2)
+* [\[wiki\] 关于主机套餐的升级，如硬盘容量/域名/流量等超额](https://github.com/hzlzh/mtHost.org/issues/8)
 
 ## Q&A
 

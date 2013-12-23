@@ -17,7 +17,8 @@
 * [\[HowTo\] 如何修改帐户开通后的两处初始密码](https://github.com/hzlzh/mtHost.org/issues/4)
 * [\[HowTo\] 如何从其他主机搬家到 (mt)Host](https://github.com/hzlzh/mtHost.org/issues/10)
 * [\[HowTo\] 如何开启Gzip页面/文件压缩优化](https://github.com/hzlzh/mtHost.org/issues/3)
-
+* [\[HowTo\] 如何用比特币或Ripple币支付主机服务](https://github.com/hzlzh/mtHost.org/issues/11)
+* 
 ## 推荐工具
 
 * FTP工具：[FileZilla](https://filezilla-project.org/) (Win&Mac)

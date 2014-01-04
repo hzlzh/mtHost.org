@@ -4,11 +4,12 @@
 
 ## Wiki
 
-* [\[wiki\] mtHost 服务器配置详细参数 ](https://github.com/hzlzh/mtHost.org/issues/1)
+* [\[wiki\] (mt)Host 服务器配置详细参数 ](https://github.com/hzlzh/mtHost.org/issues/1)
 * [\[wiki\] 关于服务器后台操作面板的界面截图](https://github.com/hzlzh/mtHost.org/issues/7)
-* [\[wiki\] 关于mtHost的备份服务](https://github.com/hzlzh/mtHost.org/issues/2)
+* [\[wiki\] 关于(mt)Host的备份服务](https://github.com/hzlzh/mtHost.org/issues/2)
 * [\[wiki\] 关于主机套餐的升级，如硬盘容量/域名/流量等超额](https://github.com/hzlzh/mtHost.org/issues/8)
 *  [\[wiki\] 关于新加入及续费的优惠方案](https://github.com/hzlzh/mtHost.org/issues/9)
+*  [\[wiki\] (mt)Host 如何开启 HTTPS/SSL 证书的使用？](https://github.com/hzlzh/mtHost.org/issues/13)
 
 ## Q&A
 

@@ -20,7 +20,7 @@
 * [\[HowTo\] 如何从其他主机搬家到 (mt)Host](https://github.com/hzlzh/mtHost.org/issues/10)
 * [\[HowTo\] 如何开启Gzip页面/文件压缩优化](https://github.com/hzlzh/mtHost.org/issues/3)
 * [\[HowTo\] 如何用比特币或Ripple币支付主机服务](https://github.com/hzlzh/mtHost.org/issues/11)
-
+* [\[HowTo\] 如何查看主机到期时间及续费事宜？](https://github.com/hzlzh/mtHost.org/issues/14)
 ## 推荐工具
 
 
